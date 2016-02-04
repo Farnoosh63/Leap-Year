@@ -2,7 +2,7 @@
 
 ##### A little program that takes a year and determines if it is a leap year.
 
-#### By Epicodus Lessons
+#### By Farnoosh Johnson
 
 ## Description
 
